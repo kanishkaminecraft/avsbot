@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-183.gif" width="500" height="275"/>
+  <img border-radius: 15px src="https://github.com/kanishkaminecraft/avsbot/assets/113976869/3e090978-f4d0-4895-99f7-ccf1e6a1cf58" width="500" height="275"/>
   <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3-red?style=for-the-badge">
     <img src="https://img.shields.io/badge/-KALI-blue?style=for-the-badge&logo=linux">
